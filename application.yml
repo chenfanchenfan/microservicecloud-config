@@ -15,4 +15,4 @@ spring:
   profiles: test   #测试环境
   application:
     name: microservicecloud-config-atguig-test
-    # 请以utf-8的形式保存 12fsdfasfsdfjsd
+    # 请以utf-8的形式保存 12
